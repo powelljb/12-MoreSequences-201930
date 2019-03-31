@@ -128,7 +128,7 @@ def build_string():
     for k in range(10):
         sequence = sequence + str(k ** 2) + ' '
 
-    print(sequence)
+    return print(sequence)
 
 
 # -----------------------------------------------------------------------------
